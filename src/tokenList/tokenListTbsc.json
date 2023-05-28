@@ -1,0 +1,28 @@
+[
+{
+"name": "BNB Token",
+"symbol": "BNB",
+"address": "0x094616F0BdFB0b526bD735Bf66Eca0Ad254ca81F",
+"chainId": 97,
+"decimals": 18,
+"logoURI": "https://i.ibb.co/qp2DsLv/bnb.png"
+},
+{
+"name": "Solak GPT",
+"symbol": "SGPx",
+"address": "0x397A24EFf3d4feD7Fce4172Ba3Fb68bBf022bAf7",
+"chainId": 97,
+"decimals": 18,
+"logoURI": "https://i.ibb.co/wK5J4yj/solak.png"
+},
+{
+    "name": "Wrapped BNB",
+    "symbol": "WBNB",
+    "address": "0x094616F0BdFB0b526bD735Bf66Eca0Ad254ca81F",
+    "chainId": 97,
+    "decimals": 18,
+    "logoURI": "https://i.ibb.co/qp2DsLv/bnb.png"
+    }
+
+
+]
